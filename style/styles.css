@@ -1,0 +1,263 @@
+.menuStyles {
+    display: flex;
+    align-items: flex-end;
+    font-family: normal normal normal 20px/26px Dosis;
+    pointer-events: none;
+    
+
+
+}
+
+.nav-link {
+    color: #FFFFFF;
+    padding-bottom: 0 !important;
+}
+
+/* .nav-item {
+    margin-bottom: -11px;
+    
+} */
+
+
+.logoStyles {
+    width: 143px;
+    height: 100px;
+    background: transparent url('img/Logo.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: .5em;
+    margin-bottom: .5em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.reserveStyles {
+    width: 92px;
+    height: 33px;
+    border: 2px solid #E5FEFF;
+    opacity: 1;
+}
+
+/* .firstcontainer {
+    margin: 0;
+    padding: 0;
+    margin-left: 0px;
+    justify-content: center;
+
+} */
+
+.secondcontainer {
+    justify-content: center;
+    background-color: #000324;
+    height: 120px;
+    opacity: 1;
+
+}
+
+/* .thirdcontainer {
+    width: 1920px;
+    height: 500px;
+    opacity: 1;
+
+} */
+
+.fourthcontainer {
+    width: 945px;
+    height: 232px;
+    background: #000324;
+    opacity: 0.8;
+    /* align-content: center; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.headerImg {
+    background-image: url(../Assets/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 1920px; */
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: left;
+    
+    
+}
+
+.secondImg {
+    width: 369px;
+    height: 416px;
+}
+.secondImgtxt {
+    float: right;
+    text-align: left;
+    /* width: 112px;
+    height: 416px; */
+}
+.paradisetxt{
+    font-family: normal normal normal 35px/44px Dosis; 
+}
+.paradisePgtxt {
+    font-family: normal normal normal 16px/20px Source Sans Pro;
+}
+.secondImgcont {
+    display: flex;
+}
+.fifthcontainer {
+    /* top: 728px;
+    left: 393px; */
+    
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.sixthcontainer {
+    /* top: 1235px;
+    left: 0px; */
+    width: 1920px;
+    height: 738px;
+    opacity: 1;
+}
+
+.seventhcontainer {
+    /* top: 1339px;
+    left: 383px; */
+    width: 369px;
+    height: 522px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.eighthcontainer {
+    /* top: 2080px;
+    left: 390px; */
+    width: 1137px;
+    height: 768px;
+    opacity: 1;
+}
+
+.ninthcontainer {
+    /* top: 2942px;
+    left: 0px; */
+    width: 1922px;
+    height: 548px;
+    opacity: 1;
+}
+
+.tenthcontainer {
+    /* top: 3591px;
+    left: 392px; */
+    width: 1137px;
+    height: 207px;
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.eleventhcontainer {
+    /* top: 3797px;
+    left: 392px; */
+    width: 1137px;
+    height: 414px;
+    opacity: 1;
+}
+
+.twelfthcontainer {
+    /* top: 4312px;
+    left: 0px; */
+    width: 1920px;
+    height: 300px;
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.thirdImg {
+    /* top: 1235px;
+    left: 0px; */
+    width: 1920px;
+    height: 738px;
+    opacity: 1;
+}
+
+.fourthImg {
+    /* top: 1339px;
+    left: 383px; */
+    width: 287px;
+    height: 190px;
+    opacity: 1;
+    object-fit: cover;
+
+}
+
+.fifthImg {
+    /* top: 1339px;
+    left: 766px; */
+    width: 287px;
+    height: 190px;
+    opacity: 1;
+
+}
+
+.sixthImg {
+    /* top: 1339px;
+    left: 1149px; */
+    width: 287px;
+    height: 190px;
+    opacity: 1;
+}
+
+.room1Card {
+    /* top: 1339px;
+    left: 383px; */
+    width: 369px;
+    height: 522px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.room2Card {
+    /* top: 1339px;
+    left: 766px; */
+    width: 369px;
+    height: 522px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.room3Card {
+    /* top: 1339px;
+    left: 1149px; */
+    width: 369px;
+    height: 522px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.headertxt {
+    /* top: 312px;
+    left: 732px; */
+    /* width: 456px;
+    height: 57px; */
+    text-align: center;
+    font: normal normal normal 45px/57px Dosis;
+    font-family: normal normal normal 45px/57px Dosis;
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+.headertxtpg {
+    /* top: 383px;
+    left: 751px; */
+    /* width: 418px;
+    height: 20px; */
+    text-align: center;
+    font-family: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
